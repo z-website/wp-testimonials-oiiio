@@ -1,4 +1,4 @@
-﻿# Description
+﻿# Description - Gutenberg Testimonials
 A really simple way to manage testimonials on your site. This plugin is gutenberg supported so you can add testimonials in any pages or posts !!!
 
 # PREVIEW :
